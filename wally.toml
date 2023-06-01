@@ -3,5 +3,8 @@ name = "dunnoconz/shibe-spring"
 description = "Basic spring made by BlackShibe"
 version = "1.1.1"
 license = "MIT"
-realm = "server"
+realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
+exclude = [
+  "LICENSE", "README.md"
+]
